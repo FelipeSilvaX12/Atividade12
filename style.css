@@ -1,0 +1,76 @@
+body {
+     margin: 50px;
+     padding: 50px;
+     background-color: rgb(187, 214, 255);
+}
+
+h1 {
+     text-align: center;
+}
+
+section {
+     text-align: center;
+     display: flex;
+     gap: 12px;
+     padding: 12px;
+
+}
+
+article {
+     display: flex;
+     flex-direction: column;
+     justify-content: space-between;
+}
+
+#artigo-1 {
+     border: solid;
+     border-radius: 40px;
+     padding: 12px;
+     width: 500px;
+     height: 500px;
+}
+
+#artigo-2 {
+     border: solid;
+     border-radius: 40px;
+     padding: 12px;
+     width: 500px;
+     height: 500px;
+}
+
+
+
+
+#artigo-3 {
+     border: solid;
+     border-radius: 40px;
+     padding: 12px;
+     width: 500px;
+     height: 500px;
+}
+
+.button {
+     background-color: aquamarine;
+     padding: 12px;
+     border-radius: 20px;
+}
+
+
+#artigo-4 {
+     background-color: cadetblue;
+     border-style: groove;
+     border-radius: 40px;
+     padding: 12px;
+     width: 500px;
+     height: 500px;
+}
+
+
+
+#button-4 {
+     gap: 20px;
+     background-color: rgb(133, 105, 217);
+     color: rgb(255, 255, 4);
+     border-radius: 12px 4px 12px 4px;
+     padding: 10px;
+}
